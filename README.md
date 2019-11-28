@@ -1,7 +1,7 @@
 # MERNDockerTemplate
 
-A simple starting template for a Dockerized MERN app
+A simple starting template for a Dockerized MERN app. Scaffolded with create-react-app and express generator.
 
 ## Setup
 - Clone into an empty folder
-- And simply $ docker-compose up
+- Simply $ docker-compose up
